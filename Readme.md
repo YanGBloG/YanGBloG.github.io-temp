@@ -1,5 +1,5 @@
 Hello,
 
-This is my Machine Learning blog in Vietnamese:
+This is our blog:
 
-[https://machinelearningcoban.com/](http://machinelearningcoban.com/)
+[link](https://yangblog.github.io/)
